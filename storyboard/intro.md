@@ -6,8 +6,6 @@
 
 #### SECTION 1 - INTRO / HOOK (1:15-4:00)
 
-# SECTION 1 - INTRO / HOOK (1:15-4:00)
-
 ---
 
 ## I. STRUCTURAL OVERVIEW
