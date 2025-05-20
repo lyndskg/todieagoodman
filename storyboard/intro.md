@@ -2,7 +2,8 @@
 
 <h1 align="center">I. "IDENTITY AS A PRISON" </h1>
 
-#### SECTION 1 - INTRO / HOOK (1:15-4:00)
+#### `1:15-4:00`
+# SECTION 1 - INTRO / HOOK (1:15-4:00)
 
 ---
 
