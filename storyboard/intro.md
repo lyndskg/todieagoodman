@@ -14,7 +14,7 @@
 - **Total Duration:** 2:45
 - **Function:** Begin thematic unpacking — identity as confinement. Each character believes he’s pursuing truth, justice, or meaning. Instead, he is confronting himself.
 - **Core Idea:** They aren’t chasing answers — they’re circling their own reflection.
-- **Emotional Progression:** Pursuit → Disorientation → Fracture
+- **Emotional Progression:** _Pursuit → Disorientation → Fracture_
 &nbsp;
 
 ---
