@@ -11,7 +11,7 @@
 ### <ins>Table of Contents</ins>
 -
   <details>
-    <summary><strong><em>I: Overview & Features</em></strong></summary>
+    <summary><strong><em>0: Overview & Features</em></strong></summary>
     <ol>
       <li>
         <a href="#view">Project Overview</a>
