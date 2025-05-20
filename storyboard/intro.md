@@ -1,25 +1,14 @@
 # Blah
 <!--- SECTION 0 ---> 
-SSS
 
 
+#### SECTION 1 - INTRO / HOOK (1:15-4:00)
 
-<h2>SECTION 0</h2>
+<h1 align="center">I. "IDENTITY AS A PRISON" </h1>
 
-# SECTION 0
-_"TO DIE A GOOD MAN"_
-# SECTION 0
+#### SECTION 1
 
-#### SECTION 0 - INTRO / HOOK (0:00-1:15)
-
-# I. FUNCTION 
-
-## I. IDENTITY AS A PRISON
-
-
-<h1 align="center">I. IDENTITY AS A PRISON (1:15-4:00)</h1>
-
-
+# SECTION 1 - INTRO / HOOK (1:15-4:00)
 
 ---
 
@@ -32,8 +21,6 @@ _"TO DIE A GOOD MAN"_
 - **Emotional Progression:** Pursuit → Disorientation → Fracture
 &nbsp;
 
-
-
 ---
 
 ## II. CORE THEME
@@ -43,8 +30,6 @@ _"TO DIE A GOOD MAN"_
 - **Tone:** Tension. Delusion. Rising dread.
 
 &nbsp;
-
-
 
 ---
 
@@ -61,12 +46,9 @@ _"TO DIE A GOOD MAN"_
 > _**“These aren’t just characters with alter-egos. They are men imprisoned by identity itself.”**_
 &nbsp;
 
-
-
 ---
 
 ## IV. CLIP MAP & VISUAL STRUCTURE
-
 
 **<ins>1:15–1:28</ins>** — Opening Montage: External Pursuit Setup
 
@@ -117,8 +99,6 @@ _"TO DIE A GOOD MAN"_
 **Audio:** Deep bass fade, soft reversed piano chord, inhale loop before total silence
 
 &nbsp;
-
-
 
 ---
 
