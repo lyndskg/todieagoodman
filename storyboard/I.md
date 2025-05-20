@@ -1,4 +1,4 @@
-<h1 align="center">INTRO (0:00–1:15) — TO DIE A GOOD MAN</h1>
+<h1 align="center">SECTION I (1:15-4:00) — IDENTITY AS A PRISON</h1>
 
 ## I. STRUCTURAL OVERVIEW
 
