@@ -1,8 +1,8 @@
-<h1 align="center">INTRO — TO DIE A GOOD MAN (0:00–1:15)</h1>
+<h1 align="center">III. JUSTICE, VENGEANCE, AND THE ILLUSION OF REDEMPTION (7:00-10:00)</h1>
 
 ## I. STRUCTURAL OVERVIEW
 
-- **Total Duration:** 1:15
+- **Total Duration:** 3:00
 - **Function:** Establish tone and thesis — existential dread, fractured identity, and impossible moral choices.
 - **Core Idea:** The unbearable cost of truth. Existential weight. Dread and disintegration. Memory as punishment. These films aren’t about twists — they’re about collapse.
 - **Emotional Progression:** Unease → Recognition → Collapse
