@@ -1,6 +1,6 @@
-<a name="bs"></a>
+<a name="tdgm"></a>
 
-<h1 align="center">black-scholes-cpp</h1>
+<h1 align="center">todieagoodman</h1>
 
 <h4 align="center"><ins><strong><em>* a C++ program that calculates the price of European options using the Black-Scholes formula * </em></strong></ins></h4>
 
