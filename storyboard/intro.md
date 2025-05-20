@@ -3,10 +3,8 @@
 SSS
 
 
-## SECTION 0 —
+## 0._"TO DIE A GOOD MAN"_
 
-#### INTRO / HOOK (0:00-1:15)
-
---- 
+#### SECTION 0 - INTRO / HOOK (0:00-1:15)
 
 # I. FUNCTION 
