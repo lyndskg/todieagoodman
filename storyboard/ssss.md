@@ -1,3 +1,76 @@
+<a name="bs"></a>
+
+<h1 align="center">black-scholes-cpp</h1>
+
+<h4 align="center"><ins><strong><em>* a C++ program that calculates the price of European options using the Black-Scholes formula * </em></strong></ins></h4>
+
+## SIDE-NOTE: IS BACKTESTING THAT BIG OF A DEAL IN THE FUTURE?
+
+Figure out fast_io 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lyndsey791/">LinkedIn</a>  |  <a href="https://www.sorry-this-site-doesnt-exist-yet./">Website</a>  |     <a href="https://github.com/lyndskg/">GitHub</a>  |  <a href="#contact">Contact Info</a>
+</p>
+
+### <ins>Table of Contents</ins>
+-
+  <details>
+    <summary><strong><em>I: Overview & Features</em></strong></summary>
+    <ol>
+      <li>
+        <a href="#view">Project Overview</a>
+        <ul>
+          <li><a href="#feat">Key Features</a></li>
+          <li><a href="#curr">Current Notes and Issues</a></li>
+        </ul>
+      </li>
+      <li><a href="#tech">Currently Used Tech Stack</a></li>
+      <li><a href="devenv">Development Environment</a></li>
+      <li><a href="#uiux">UI/UX Implementation Details</a></li>
+      <li><a href="io">Potential I/O Specifications</a>
+      <li><a href="#err">Error Handling</a></li>
+      <li><a href="#plus">Future Enhancements</a></li>
+      <li><a href="bye">Conclusion</a></li>
+    </ol>
+  </details>
+-
+  <details>
+    <summary><strong><em>II: Implementation Details</em></strong></summary>
+    <ol>
+      <li><a href="#tech">Technologies and Programming Languages</a></li>
+      <li><a href="devenv">Development Environment</a></li>
+      <li>
+        <a href="#map">Roadmap</a>
+        <ul>
+          <li><a href="todo">To-Do List</a></li>
+          <li><a href="est">Time Estimate</a></li>
+        </ul> 
+      </li>
+      <li><a href="#uiux">UI/UX Implementation Details</a></li>
+      <li><a href="#feat">Key Features</a></li>
+      <li><a href="web">Web Application</a></li>
+      <li><a href="#flow">Basic Workflow Guide</a></li>
+      <li><a href="#impl">Project Implementation Guide</a></li>
+      <li>
+        <a href="io">Potential I/O Specifications</a>
+        <ul>
+          <li><a href="#i">Input</a></li>
+          <li><a href="#o">Output</a></li>
+          <li><a href="#err">Error Handling</a></li>
+        </ul>
+      </li>
+      <li><a href="#plus">Future Enhancements</a></li>
+    </ol>
+  </details>
+-
+  <details>
+    <summary><strong><em>III: Usage, Installation & Getting Started</em></strong></summary>
+    <ol>
+      <li>
+        <a href="#view">Project Overview</a>
+        <ul>
+          <li><a href="#obj">Objectives</a></li>
+
 # TO DIE A GOOD MAN — MASTER STORYBOARD
 
 ---
