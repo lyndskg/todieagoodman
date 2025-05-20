@@ -1,4 +1,4 @@
-<h1 align="center">II. THE WEAPONIZATION OF TRUTH (4:00-7:00)</h1>
+<h1 align="center">II. -- THE WEAPONIZATION OF TRUTH (4:00-7:00)</h1>
 
 ## I. STRUCTURAL OVERVIEW
 
