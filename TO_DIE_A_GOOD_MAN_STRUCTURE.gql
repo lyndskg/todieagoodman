@@ -1,16 +1,55 @@
-type Storyboard {
-  title: String
-  sections: [Section]
-}
-
-type Section {
-  id: Int
-  title: String
-  duration: String
-  subsections: [Subsection]
-}
-
-type Subsection {
-  name: String
-  content: String
-}
+black-scholes-cpp/           # Project root directory
+├── build/                       # Directory for build artifacts (created during the build process)
+├── docs/                        # Documentation directory
+│   ├── hierarchy.gql                # Project hierarchy guide
+│   ├── BuildNotes.txt               # Build notes
+│   ├── index.md                     # Project documentation index
+│   ├── installation.md              # Installation guide
+│   ├── usage.md                     # Library usage guide
+│   ├── troubleshooting.md           # Troubleshooting guide
+│   ├── contribution.md              # Contribution guidelines
+│   ├── Doxyfile                     # Doxygen documentation
+│   └── api_reference.md             # API reference documentation
+├── gtest/                       # Google Test framework
+├── include/                     # Directory for header files
+│   ├── black-scholes-cpp/           # Project-specific header files
+│   │   ├── blackScholesModel.h          # Header file for blackScholesModel
+│   │   ├── hestonModel.h                # Header file for hestonModel
+│   │   ├── inputReader.h                # Header file for inputReader
+│   │   ├── optionGreeks.h               # Header file for optionGreeks
+│   │   ├── optionGreeksModel.h          # Header file for optionGreeksModel
+│   │   ├── outputWriter.h               # Header file for outputWriter
+│   │   ├── Program.h                    # Header file for Program
+│   │   └── csv.h                        # Header file (possibly for CSV-related functionality)
+│   └── third_party/                # Header files for third-party libraries
+│       ├── libcurl/                     # libcurl headers
+│       ├── websocketpp/                 # WebSocket++ headers
+│       ├── oneMKL2/                     # OneMKL
+│       └── rapidjson/                   # RapidJSON headers
+├── src/                        # Source code directory
+│   ├── blackScholesModel.cpp           # Source file for blackScholesModel
+│   ├── hestonModel.cpp                 # Source file for hestonModel
+│   ├── inputReader.cpp                 # Source file for inputReader
+│   ├── optionGreeks.cpp                # Source file for optionGreeks
+│   ├── optionGreeksModel.cpp           # Source file for optionGreeksModel
+│   ├── outputWriter.cpp                # Source file for outputWriter
+│   ├── Program.cpp                     # Source file for Program
+│   ├── main.cpp                        # Source file for main driver file
+│   └── CMakeLists.txt                  # CMake configuration for the entire src directory
+├── test/                      # Test directory
+│   ├── test_blackScholesModel.cpp      # Test file for blackScholesModel
+│   ├── test_hestonModel.cpp            # Test file for hestonModel
+│   ├── test_Program.cpp                # Test file for Program
+│   ├── test_inputReader.cpp            # Test file for inputReader
+│   ├── test_outputWriter.cpp           # Test file for outputWriter
+│   ├── test_optionGreeks.cpp           # Test file for optionGreeks
+│   ├── test_optionGreeksModel.cpp      # Test file for optionGreeksModel
+│   ├── gtest_main.cpp                  # Main test file for Google Test
+│   └── CMakeLists.txt                  # CMake configuration for the test directory
+├── .gitignore                  # Git ignore file to exclude certain files/directories from version control
+├── option_GS_df.csv            # CSV file
+├── CMakeLists.txt              # Top-level CMake configuration
+├── project-defaults.cmake      # Top-level CMake default module configurations
+├── cleanup.cmake               # Custom CMake target for cleaning build direcotry
+├── xcode_redirect.hpp          # Header file (possibly related to Xcode)
+└── README.md                   # Project README file
