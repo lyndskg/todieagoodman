@@ -1,4 +1,4 @@
-<h1 align="center">SECTION I (1:15-4:00) — IDENTITY AS A PRISON</h1>
+<h1 align="center">I. IDENTITY AS A PRISON (1:15-4:00)</h1>
 
 ## I. STRUCTURAL OVERVIEW
 
