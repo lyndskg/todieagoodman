@@ -22,20 +22,22 @@
 
 ## IV. CLIP MAP & VISUAL STRUCTURE
 
-Black screen, white serif text appears gradually:
-“Written, Edited & Voiced by [Your Name]”
-“Clips from: Oldboy (2003), Shutter Island (2010), The Dark Knight Rises (2012)”
-“Music and sound design sourced or composed where noted.”
-Final overlay: “To Die a Good Man — A Video Essay” (centered, 3-second hold)
-Fade to black
+- Black screen, white serif text appears gradually:
+  - _“Written, Edited & Voiced by [Your Name]”_
+  - _“Clips from: Oldboy (2003), Shutter Island (2010), The Dark Knight Rises (2012)”_
+  - _“Music and sound design sourced or composed where noted.”_
+- **Final overlay:** _“To Die a Good Man — A Video Essay”_ (centered, 3-second hold)
+
+- Fade to black
 
 
 &nbsp;
 
 ## V. AUDIO DESIGN
 - Final ambient reverb or wind motif
-3-note piano resolution (optional, matching motif from intro)
-Ends in silence
+- 3-note piano resolution (_optional_, matching motif from intro)
+
+- Ends in silence
 
 
 
