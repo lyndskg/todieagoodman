@@ -35,7 +35,7 @@
 
 ## IV. CLIP MAP & VISUAL STRUCTURE
 
-**<ins>1:15–1:28</ins>** — Opening Montage: External Pursuit Setup
+**<ins>1:15–1:28</ins>** — EXTERNAL PURSUIT SETUP
 - **Visuals:**
   - Teddy reviewing patient files, slow dolly in (_Shutter Island_, 0:14:00–0:14:06)
   - Dae-su walking unsteadily through the city post-release (_Oldboy_, 0:21:15–0:21:22)
