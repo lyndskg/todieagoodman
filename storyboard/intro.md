@@ -4,11 +4,10 @@
 
 ## SECTION 1 -
 
-`1:15-4:00`
+## `1:15-4:00`
 
 # INTRO / HOOK (1:15-4:00)
 
----
 
 ## I. STRUCTURAL OVERVIEW
 
