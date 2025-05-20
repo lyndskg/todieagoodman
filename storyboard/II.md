@@ -34,39 +34,42 @@
 
 ## IV. CLIP MAP & VISUAL STRUCTURE
 
-**<ins>4:00–4:40 — Oldboy: Truth as Blade
-Album discovery and scream montage (1:35:30–1:36:08)
-Flashbacks: hypnosis, seduction, realization
-Climactic scream → cuts to silence
-Ends on hypnotist in snowy forest (1:47:05)
-4:40–5:25 — Shutter Island: Truth as Mercy Killing
-Lighthouse dialogue: Cawley explaining the truth (1:47:10)
-Flashbacks of Dolores, drowned children
-Teddy clutches head, shaking — extreme close-up on tear welling in one eye
-Ends with: Teddy sitting calmly in the yard, waiting for the lobotomy
-Audio: slow-building violin → muted
-5:25–6:10 — TDKR: Truth as Collapse of Symbol
-Gordon’s speech about Harvey Dent plays in voiceover (1:26:00)
-Bruce watching footage of Bane exposing the truth
-Montage: The lie unravels; Gotham revolts; Bruce in the pit
-Riot footage + Bruce in pit + Dent flashbacks
-Alfred crying by Bruce’s grave
-6:10–7:00 — Crosscut Collapse
-Dae-su presses face into snow, blood trailing from mouth
-Teddy being strapped to chair, expression resigned
-Bruce walking away from the cowl — slow, symbolic disrobing
-All three men, motionless: broken but breathing → empty frame
+**<ins>4:00–4:40</ins>** — _Oldboy_: Truth as Blade
+- Album discovery and scream montage (1:35:30–1:36:08)
+- Flashbacks: hypnosis, seduction, realization
+- Climactic scream → cuts to silence
+- Ends on hypnotist in snowy forest (1:47:05)
+
+**<ins>4:40–5:25</ins>** — _Shutter Island_: Truth as Mercy Killing
+- Lighthouse dialogue: Cawley explaining the truth (1:47:10)
+- Flashbacks of Dolores, drowned children
+- Teddy clutches head, shaking — extreme close-up on tear welling in one eye
+- **Ends with:** Teddy sitting calmly in the yard, waiting for the lobotomy
+- **Audio:** slow-building violin → muted
+
+**<ins>5:25–6:10</ins>** — _TDKR_: Truth as Collapse of Symbol
+- Gordon’s speech about Harvey Dent plays in voiceover (1:26:00)
+- Bruce watching footage of Bane exposing the truth
+- **Montage:** The lie unravels; Gotham revolts; Bruce in the pit
+  - Riot footage + Bruce in pit + Dent flashbacks
+- Alfred crying by Bruce’s grave
+
+**6:10–7:00** — Crosscut Collapse
+- Dae-su presses face into snow, blood trailing from mouth
+- Teddy being strapped to chair, expression resigned
+- Bruce walking away from the cowl — slow, symbolic disrobing
+- All three men, motionless: broken but breathing → empty frame
 
 &nbsp;
 
 ## V. AUDIO DESIGN
 - Dissonant drone layered with low strings
-Static-washed transitions between each arc
-Sharp tonal shifts during reveals (audio dropouts, rumble spikes)
-Distorted ambient tails on words like “truth” / “destroy”
-Reverb echo on “truth,” “destroy,” “erase”
-Silence or near-silence in final 20 seconds to heighten emotional flatline
-Final 10 seconds: total drop to black
+- Static-washed transitions between each arc
+- Sharp tonal shifts during reveals (audio dropouts, rumble spikes)
+- Distorted ambient tails on words like “truth” / “destroy”
+  - Reverb echo on “truth,” “destroy,” “erase”
+- Silence or near-silence in final 20 seconds to heighten emotional flatline
+  - Final 10 seconds: total drop to black
 
 
 
