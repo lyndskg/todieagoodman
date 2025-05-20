@@ -34,10 +34,12 @@
 ## IV. CLIP MAP & VISUAL STRUCTURE
 
 **<ins>1:15–1:28</ins>** — Opening Montage: External Pursuit Setup
+
 **Clips:**
 - [_Shutter Island_] Teddy reviewing patient files, slow dolly in (0:14:00–0:14:06)
 - [_Oldboy_]  Dae-su walking unsteadily through the city post-release (0:21:15–0:21:22)
 - [_TDKR_] Bruce standing behind the manor window, TV flickering off his face (0:12:30–0:12:36)
+
 **Tone:** Purposeful, disoriented, still masked by illusion
 **Audio:** Ambient bed deepens, subtle rhythmic pulse begins
 
