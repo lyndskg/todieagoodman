@@ -1,4 +1,4 @@
-<h1 align="center">INTRO — TO DIE A GOOD MAN (0:00–1:15)</h1>
+<h1 align="center">V. FINAL REFLECTION (13:00-14:30)</h1>
 
 ## I. STRUCTURAL OVERVIEW
 
