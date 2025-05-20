@@ -1,0 +1,169 @@
+STORYBOARD — INTRO (0:00–1:15) — TO DIE A GOOD MAN
+
+I. STRUCTURAL OVERVIEW
+Total Duration: 1:15
+Function: Establish tone and thesis — existential dread, fractured identity, and impossible moral choices.
+Core Idea: The unbearable cost of truth. Existential weight. Dread and disintegration. Memory as punishment. These films aren’t about twists — they’re about collapse.
+Emotional Progression: Unease → Recognition → Collapse
+
+II. CORE THEME
+Thesis: What do you do with a truth you can’t live with?
+Framing: Not “three films that end in a twist,” but three existential implosions framed as moral paradoxes.
+Tone: Lyrical, haunting, restrained.
+
+III. SCRIPT & VOICEOVER
+“These are three very different films. Different directors. Different genres. Different continents.”
+“But the first time I watched each one — Oldboy, Shutter Island, The Dark Knight Rises — I left feeling the same thing.”
+“Like the ground had shifted under me. Like the ending had cracked something I didn’t know could break.”
+“Not because they were sad. Or violent. Or clever. But because they each left me asking the same question:”
+“What the hell are you supposed to do with a truth you can’t live with?”
+“In Oldboy, a man spends fifteen years obsessing over why he was imprisoned — only to realize the real punishment is finding out.”
+“In Shutter Island, a detective searches for a missing patient — only to discover the person who’s missing is himself.”
+“And in The Dark Knight Rises, a man tries to resurrect a myth — only to realize the myth has swallowed the man.”
+“Each story builds to a twist. But it’s not the kind you clap for. It’s the kind that sinks. That makes you rethink everything that came before.”
+“This video essay is about what happens when the truth doesn’t set you free. When justice is a myth. When memory becomes punishment. When the only choices left are delusion, disappearance… or destruction.”
+“Three films. Three impossible choices. One question that haunts all of them:”
+“Is it better to die a good man… or to live as a monster?”
+
+IV. CLIP MAP & VISUAL STRUCTURE 
+0:00–0:06
+Visual: Black screen → fade in Teddy Daniels sitting motionless on the asylum steps, alone. His head is bowed. Fog rolls behind him.
+Clip Source: Shutter Island, 1:44:05–1:44:10
+Tone: Resignation. Stillness. Silent collapse.
+Overlay: TEXT — “Which would be worse: to live as a monster… or to die as a good man?” (centered, serif, slow dissolve)
+Audio: Faint wind. Hollow drone.
+
+0:06–0:12 
+Visual: Slow crossfade to Oh Dae-su, staggering through snow, arms clenched. His face is blank. The white frame stretches endlessly.
+Clip Source: Oldboy, 1:47:22–1:47:28
+Tone: Disorientation. Emotional exile. Deep psychic rupture.
+Audio: Rumble begins underneath, distant and heavy.
+0:12–0:18 
+Visual: Crossfade to Bruce Wayne climbing the pit. His hands are scraped against stone, muscles tense. The light above looms but never quite reaches.
+Clip Source: The Dark Knight Rises, 1:52:38–1:52:44
+Tone: Isolation. Futile hope. Metaphysical ascent.
+Overlay: Previous quote fades out. Image gradually empties to black.
+0:18–0:20
+Visual: Full black. Then: slow fade in of the title — To Die a Good Man
+Font: White serif, large, minimal spacing. Centered.
+Audio: Ambient thrum fades, leaving space for VO.
+0:20–0:39 — VO Begins: “These are three very different films…”
+Dae-su punching the wall in his cell (Oldboy, 0:07:30)
+Teddy walking through Ward C, flashlight beam flickering (Shutter Island, 1:13:15)
+Bruce limping barefoot past the Batsuit shrine and cowl display (TDKR, 0:17:00)
+Intercut:
+Teddy’s distorted mirror (Shutter Island)
+Dae-su shadowboxing
+Bruce in robe, backlit
+0:33–0:39: Dolores engulfed in flames (Shutter Island, 1:30:00-1:30:05)
+0:39–0:48 — VO: “What the hell are you supposed to do…”
+Dae-su screaming into mirror (1:36:05)
+Dolores on fire, arms open
+Bruce staring at the Batsuit’s reflection, dead-eyed
+0:48–1:10 — Twist Montage
+Oldboy: Photo board discovery → Wu-jin smirk → Dae-su collapse
+Shutter Island: Dolores by lake → Lighthouse reveal → Teddy in rain
+TDKR: Selina Kyle file → Bat bomb launch → Bruce's funeral
+1:10–1:15 — Closing Montage
+Teddy on asylum steps → Dae-su in snow → Bruce in Florence café
+All three faces dissolve into each other
+Overlay: TEXT — “To Die a Good Man”
+Audio: Faint piano note. Silence trailing.
+
+V. AUDIO DESIGN
+0:00–0:20: Cold open, ambient wind + tonal drone
+0:20 onward: VO layered over soft underscore
+Subtle piano builds beneath key moments
+Key moments: Reverse reverb or echo for emphasis on “truth”, “monster”
+End: Final fade to silence before Section I begins
+
+STORYBOARD — SECTION I (1:15–4:00) — IDENTITY AS A PRISON
+
+STRUCTURAL OVERVIEW
+Duration: 2:45
+Function: Unpack identity as psychological confinement
+Core Idea: They think they’re chasing truth. They’re chasing themselves.
+Emotional Progression: Pursuit → Doubt → Fracture
+
+CORE THEME
+Thesis: These men are not imprisoned by others — but by identity itself.
+Framing: Identity as coping mechanism, myth, or misdirection.
+Tone: Fractured, introspective, pressurized
+
+SCRIPT & VOICEOVER
+“Each of these men is introduced to us as someone chasing answers — justice, revenge, a fugitive. But what they’re really chasing is themselves. And the closer they get, the more they unravel.”
+
+“In Oldboy, Oh Dae-su is stripped of memory, name, and agency. Fifteen years locked in a cell, with no explanation. When he emerges, he doesn’t just search for his captor — he searches for who he is now. And that search ends in horror. His entire identity has been constructed to lead him to ruin.”
+
+“In Shutter Island, Teddy Daniels is a U.S. Marshal investigating a missing patient. But he, too, is part of a psychological trap — except this one is self-inflicted. Teddy isn’t real. He’s Andrew Laeddis, a man who killed his wife after she drowned their children. The investigation is his coping mechanism.”
+
+“And in The Dark Knight Rises, Bruce Wayne isn’t quite alive. He’s a ghost haunting his own mansion, clinging to the Batman myth as a reason to exist. But that myth has long stopped serving Gotham — it only serves his pain.”
+
+“These aren’t just characters with alter-egos. They are men imprisoned by identity itself.”
+
+CLIP MAP & VISUAL STRUCTURE
+1:15–1:28 — External Pursuits
+- Teddy flipping through files (0:14:00), Dae-su walking in daylight (0:21:15), Bruce standing in manor window (0:12:30)
+
+1:28–2:00 — Oldboy
+- Tally marks (0:05:55), TV montage (0:06:10), shadowboxing (0:07:22), door slot eye (0:08:12), mirror scream (1:36:00)
+
+2:00–2:45 — Shutter Island
+- Ward C (1:13:00), Dolores in cave (1:20:50), cracked mirror (1:23:14), lighthouse + drowned kids (1:40:40), close-up on realization (1:47:20)
+
+2:45–3:25 — TDKR
+- Bruce limping in robe (0:14:02), Selina’s profile (0:14:35), Batsuit display (0:16:52), Alfred line overlays (0:17:10)
+
+3:25–4:00 — Identity Dissolves
+- Dae-su in snow (1:47:20), Teddy to floor (1:44:00), Bruce frozen (1:10:25)
+
+AUDIO DESIGN
+- Ambient tension under whole sequence
+- Warped TV clips for Oldboy
+- Water drip + echo in Shutter Island
+- Bare room resonance and piano in TDKR
+
+STORYBOARD — SECTION II (4:00–7:00) — THE WEAPONIZATION OF TRUTH
+
+STRUCTURAL OVERVIEW
+Duration: 3:00
+Function: Show that truth, when delivered in these films, is annihilating — not liberating
+Core Idea: These films turn truth into the final trap.
+Emotional Progression: Discovery → Collapse → Erasure
+
+CORE THEME
+Thesis: The truth isn’t redemptive. It’s designed to break them.
+Framing: Each truth is psychologically engineered — self-destruct mechanism.
+Tone: Grim, unraveling, irreversible
+
+SCRIPT & VOICEOVER
+“These films all hinge on a terrible reveal. But unlike typical plot twists, these truths don’t free the protagonist. They destroy him.”
+
+“In Oldboy, truth is a weapon. The incestuous relationship, the hypnosis, the revelation — they’re all designed to annihilate Oh Dae-su’s soul, not just his mind. His captor doesn’t want him dead. He wants him hollowed out.”
+
+“In Shutter Island, truth arrives not as a bombshell, but a tragedy. Teddy’s search for truth is just a closed loop of denial. And when the experiment fails, he chooses obliteration. The lobotomy is a mercy killing of the self.”
+
+“In The Dark Knight Rises, the truth about Harvey Dent’s fall is suppressed. Gotham is built on a lie. Batman becomes a scapegoat. And Bruce Wayne buries his own identity deeper and deeper under the rubble of that lie. The only way out is to erase himself.”
+
+“In all three, truth doesn’t redeem. It ravages.”
+
+CLIP MAP & VISUAL STRUCTURE
+4:00–4:40 — Oldboy
+- Gift box → photo album (1:35:30), realization montage, scream, tongue
+- Ends on: hypnotist walking away (1:47:05)
+
+4:40–5:25 — Shutter Island
+- Lighthouse reveal (1:47:10), Dolores flashback, breakdown
+- Ends with: Teddy waiting in garden (1:48:55)
+
+5:25–6:10 — TDKR
+- Bane reveal montage (1:26:00), Harvey Dent cover-up, pit scenes
+- Ends on: Bruce’s grave, Alfred weeping
+
+6:10–7:00 — Crosscut Collapse
+- Dae-su in snow (1:47:20), Teddy’s strapped chair (1:48:10), Bruce walks away from cave (1:58:10)
+
+AUDIO DESIGN
+- Dissonant drones, tonal drops
+- Isolated breath and ambient loss
+- Final frame: void
