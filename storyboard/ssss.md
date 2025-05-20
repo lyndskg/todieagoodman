@@ -58,15 +58,6 @@
       <li><a href="#plus">Future Enhancements</a></li>
     </ol>
   </details>
--
-  <details>
-    <summary><strong><em>III: Usage, Installation & Getting Started</em></strong></summary>
-    <ol>
-      <li>
-        <a href="#view">Project Overview</a>
-        <ul>
-          <li><a href="#obj">Objectives</a></li>
-
 # TO DIE A GOOD MAN — MASTER STORYBOARD
 
 ---
