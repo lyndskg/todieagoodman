@@ -1,0 +1,81 @@
+[
+  // SECTION I: Identity as a Prison
+  {
+    "title": "oldboy_tally_marks",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "00:05:50",
+    "duration": "00:00:20"
+  },
+  {
+    "title": "oldboy_tv_montage",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "00:06:20",
+    "duration": "00:00:30"
+  },
+  {
+    "title": "oldboy_shadowboxing",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "00:07:25",
+    "duration": "00:00:15"
+  },
+  {
+    "title": "oldboy_door_slot",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "00:08:45",
+    "duration": "00:00:12"
+  },
+
+  // SECTION II: Weaponization of Truth
+  {
+    "title": "oldboy_photo_board_scene",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "01:31:00",
+    "duration": "00:00:25"
+  },
+  {
+    "title": "oldboy_incest_reveal",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "01:33:10",
+    "duration": "00:00:35"
+  },
+  {
+    "title": "oldboy_dae_su_breakdown",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "01:36:00",
+    "duration": "00:00:40"
+  },
+
+  // SECTION III: Justice, Vengeance, Illusion of Redemption
+  {
+    "title": "oldboy_dae_su_torture",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "00:41:20",
+    "duration": "00:00:35"
+  },
+  {
+    "title": "oldboy_final_fight",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "01:28:00",
+    "duration": "00:00:40"
+  },
+  {
+    "title": "oldboy_wu_jin_reveal_motive",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "01:30:15",
+    "duration": "00:00:35"
+  },
+
+  // SECTION IV: Their Final Choice
+  {
+    "title": "oldboy_hypnosis_session",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "01:46:25",
+    "duration": "00:00:30"
+  },
+  {
+    "title": "oldboy_snow_scene",
+    "file": "Oldboy_2003_Remastered.mp4",
+    "start": "01:47:20",
+    "duration": "00:00:35"
+  }
+]
