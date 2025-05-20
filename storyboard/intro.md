@@ -1,6 +1,4 @@
-# Blah
 <!--- SECTION 0 ---> 
-
 
 <h1 align="center">I. "IDENTITY AS A PRISON" </h1>
 
@@ -9,7 +7,6 @@
 ---
 
 ## I. STRUCTURAL OVERVIEW
-
 
 - **Total Duration:** 2:45
 - **Function:** Begin thematic unpacking — identity as confinement. Each character believes he’s pursuing truth, justice, or meaning. Instead, he is confronting himself.
