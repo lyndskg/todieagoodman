@@ -4,10 +4,6 @@
 
 <h4 align="center"><ins><strong><em>* a C++ program that calculates the price of European options using the Black-Scholes formula * </em></strong></ins></h4>
 
-## SIDE-NOTE: IS BACKTESTING THAT BIG OF A DEAL IN THE FUTURE?
-
-Figure out fast_io 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/lyndsey791/">LinkedIn</a>  |  <a href="https://www.sorry-this-site-doesnt-exist-yet./">Website</a>  |     <a href="https://github.com/lyndskg/">GitHub</a>  |  <a href="#contact">Contact Info</a>
 </p>
