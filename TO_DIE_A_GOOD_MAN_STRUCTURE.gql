@@ -1,0 +1,16 @@
+type Storyboard {
+  title: String
+  sections: [Section]
+}
+
+type Section {
+  id: Int
+  title: String
+  duration: String
+  subsections: [Subsection]
+}
+
+type Subsection {
+  name: String
+  content: String
+}
