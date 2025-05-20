@@ -1,0 +1,13 @@
+todieagoodman/           # Project root directory
+├── video/                      
+├── storyboard/                        # Documentation directory
+│   ├── hierarchy.gql                # Project hierarchy guide
+│   ├── BuildNotes.txt               # Build notes
+│   ├── index.md                     # Project documentation index
+│   ├── installation.md              # Installation guide
+│   ├── usage.md                     # Library usage guide
+│   ├── troubleshooting.md           # Troubleshooting guide
+│   ├── contribution.md              # Contribution guidelines
+│   ├── Doxyfile                     # Doxygen documentation
+│   └── api_reference.md             # API reference documentation
+└── README.md                   # Project README file
