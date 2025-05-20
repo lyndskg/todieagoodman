@@ -28,18 +28,16 @@
 > _“And in The Dark Knight Rises, Bruce Wayne isn’t quite alive. He’s a ghost haunting his own mansion, clinging to the Batman myth as a reason to exist. But that myth has long stopped serving Gotham — it only serves his pain.”_
 >
 > _**“These aren’t just characters with alter-egos. They are men imprisoned by identity itself.”**_
-
-
 &nbsp;
 
 
 ## IV. CLIP MAP & VISUAL STRUCTURE
 
-**<ins>1:15–1:28</ins>** — EXTERNAL PURSUIT SETUP
+**<ins>1:15–1:28</ins>** — Opening Montage: External Pursuit Setup
 - **Visuals:**
-  - Teddy reviewing patient files, slow dolly in (_Shutter Island_, 0:14:00–0:14:06)
-  - Dae-su walking unsteadily through the city post-release (_Oldboy_, 0:21:15–0:21:22)
-  - Bruce standing behind the manor window, TV flickering off his face (_TDKR_, 0:12:30–0:12:36)
+  - [_Shutter Island_] Teddy reviewing patient files, slow dolly in (0:14:00–0:14:06)
+  - [_Oldboy_]  Dae-su walking unsteadily through the city post-release (0:21:15–0:21:22)
+  - [_TDKR_] Bruce standing behind the manor window, TV flickering off his face (0:12:30–0:12:36)
 - **Tone:** Purposeful, disoriented, still masked by illusion
 - **Audio:** Ambient bed deepens, subtle rhythmic pulse begins
 
@@ -74,9 +72,9 @@
 
 **<ins>3:25–4:00</ins>** — Montage: Identity as Prison
 - **Visuals:**
-  - Dae-su in the snow, camera rotating slowly around him (1:47:20–1:47:28)
-  - Teddy staring down at cracked stone floor, light flickering (1:44:00–1:44:06)
-  - Bruce staring at nothing inside the Batcave, hands open (1:10:25–1:10:30)
+  - [_Oldboy_] Dae-su in the snow, camera rotating slowly around him (1:47:20–1:47:28)
+  - [_Shutter Island_] Teddy staring down at cracked stone floor, light flickering (1:44:00–1:44:06)
+  - [_TDKR_] Bruce staring at nothing inside the Batcave, hands open (1:10:25–1:10:30)
 - **Structure:** Slow crossfades — one face melts into the next, symbolizing parallel disintegration
 - **Overlay** (_faint, optional_): TEXT — _“Who are you when there’s nothing left to protect?”_
 - **Audio:** Deep bass fade, soft reversed piano chord, inhale loop before total silence
@@ -88,6 +86,7 @@
 - _Oldboy_: TV static, hollow foley
 - _Shutter Island_: flickering fluorescents, pulsing heartbeat
 - _TDKR_: cavernous silence, solemn piano accent
+
 - Final 10 seconds: low-end taper into void, pulsing subbass into silence
 
 
