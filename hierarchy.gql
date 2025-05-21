@@ -15,7 +15,7 @@ todieagoodman/
 │
 ├── project/                     # Planning + execution metadata
 │   ├── scenes.json              # Timestamps for ffmpeg clip splitting
-│   ├──clip_map.md               # Time-coded visual references per section
+│   ├── clip_map.md              # Time-coded visual references per section
 │   ├── vo_script_chunks.md      # VO script broken down by file/session
 │   ├── cue_sheet.md             # Sound/music cues, effects, ambience
 │   └── production_notes.md      # Loose thoughts, edits, TODOs, pacing
