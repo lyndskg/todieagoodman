@@ -1,0 +1,153 @@
+
+STORYBOARD — INTRO (0:00–1:15) — TO DIE A GOOD MAN
+
+STRUCTURAL OVERVIEW
+Total Duration: 1:15
+Function: Establish tone and thesis — existential dread, fractured identity, and impossible moral choices.
+Core Idea: The unbearable cost of truth. Existential weight. Dread and disintegration. Memory as punishment. These films aren’t about twists — they’re about collapse.
+Emotional Progression: Unease → Recognition → Collapse
+
+CORE THEME
+Thesis: What do you do with a truth you can’t live with?
+Framing: Not “three films that end in a twist,” but three existential implosions framed as moral paradoxes.
+Tone: Lyrical, haunting, restrained.
+
+SCRIPT & VOICEOVER
+“These are three very different films. Different directors. Different genres. Different continents.”
+“But the first time I watched each one — Oldboy, Shutter Island, The Dark Knight Rises — I left feeling the same thing.”
+“Like the ground had shifted under me. Like the ending had cracked something I didn’t know could break.”
+“Not because they were sad. Or violent. Or clever. But because they each left me asking the same question:”
+“What the hell are you supposed to do with a truth you can’t live with?”
+“In Oldboy, a man spends fifteen years obsessing over why he was imprisoned — only to realize the real punishment is finding out.”
+“In Shutter Island, a detective searches for a missing patient — only to discover the person who’s missing is himself.”
+“And in The Dark Knight Rises, a man tries to resurrect a myth — only to realize the myth has swallowed the man.”
+“Each story builds to a twist. But it’s not the kind you clap for. It’s the kind that sinks. That makes you rethink everything that came before.”
+“This video essay is about what happens when the truth doesn’t set you free. When justice is a myth. When memory becomes punishment. When the only choices left are delusion, disappearance… or destruction.”
+“Three films. Three impossible choices. One question that haunts all of them:”
+“Is it better to die a good man… or to live as a monster?”
+
+CLIP MAP & VISUAL STRUCTURE (REFINED)
+0:00–0:06
+Visual: Teddy sits motionless on asylum steps. Fog rolls behind him. (Shutter Island, 1:44:05–1:44:10)
+Tone: Stillness. Collapse.
+Overlay: “Which would be worse...”
+Audio: Wind + hollow drone
+
+0:06–0:12
+Visual: Oh Dae-su staggers in snow (Oldboy, 1:47:22–1:47:28)
+Tone: Disorientation
+Audio: Distant rumble
+
+0:12–0:18
+Visual: Bruce climbing pit (TDKR, 1:52:38–1:52:44)
+Tone: Isolation, futility
+Overlay fades out
+
+0:18–0:20
+Visual: Title card — To Die a Good Man
+Audio: Ambient thrum fades out
+
+0:20–0:39
+Visuals: Dae-su punching wall (0:07:30), Teddy walking Ward C (1:13:15), Bruce limping past cowl (0:17:00)
+Intercut: mirror distortion, shadowboxing, Bruce in robe
+0:33–0:39: Dolores on fire (1:30:00–1:30:05)
+
+0:39–0:48
+VO: “What the hell are you supposed to do...”
+Visuals: Dae-su screaming, Dolores burning, Bruce reflecting in Batsuit
+
+0:48–1:10
+Twist Montage:
+Oldboy: photo board → Wu-jin smirk → collapse
+Shutter Island: Dolores lake → lighthouse → Teddy in rain
+TDKR: Selina Kyle → Bat launch → funeral
+
+1:10–1:15
+Final montage: Teddy → Dae-su → Bruce (faces dissolve)
+Overlay: “To Die a Good Man”
+Audio: Single piano note, fading into silence
+
+AUDIO DESIGN
+0:00–0:20: Ambient wind + drone
+0:20–1:15: VO + subtle underscore, piano swells
+Key moments: reverb on “truth,” “monster”
+End: total fade
+
+======================================================================
+
+STORYBOARD — SECTION I (1:15–4:00) — IDENTITY AS A PRISON
+
+STRUCTURAL OVERVIEW
+Duration: 2:45
+Function: Unpack identity as psychological confinement
+Core Idea: They think they’re chasing truth. They’re chasing themselves.
+Emotional Progression: Pursuit → Doubt → Fracture
+
+CORE THEME
+Thesis: These men are not imprisoned by others — but by identity itself.
+Framing: Identity as coping mechanism, myth, or misdirection.
+Tone: Fractured, introspective, pressurized
+
+SCRIPT & VOICEOVER
+(Already given in doc)
+
+CLIP MAP & VISUAL STRUCTURE (REFINED)
+1:15–1:28 — External Pursuits
+- Teddy flipping through files (0:14:00), Dae-su walking in daylight (0:21:15), Bruce standing in manor window (0:12:30)
+- Tone: searching, unaware of inner disintegration
+
+1:28–2:00 — Oldboy
+- Tally marks (0:05:55), TV montage (0:06:10), shadowboxing (0:07:22), door slot eye (0:08:12), mirror scream (1:36:00)
+- Audio: distorted news snippets, muffled blows, layered breathing
+
+2:00–2:45 — Shutter Island
+- Ward C (1:13:00), Dolores in cave (1:20:50), cracked mirror (1:23:14), lighthouse + drowned kids (1:40:40), close-up on realization (1:47:20)
+- Audio: pulse-throb sound design, distorted echoes
+
+2:45–3:25 — TDKR
+- Bruce limping in robe (0:14:02), Selina’s profile (0:14:35), Batsuit display (0:16:52), Alfred line overlays (0:17:10)
+- Audio: low hum, echo of footsteps, silence under Alfred
+
+3:25–4:00 — Identity Dissolves
+- Dae-su in snow (1:47:20), Teddy to floor (1:44:00), Bruce frozen (1:10:25)
+- Visuals crossfade as motif: the gaze into nothing
+
+======================================================================
+
+STORYBOARD — SECTION II (4:00–7:00) — THE WEAPONIZATION OF TRUTH
+
+STRUCTURAL OVERVIEW
+Duration: 3:00
+Function: Show that truth, when delivered in these films, is annihilating — not liberating
+Core Idea: These films turn truth into the final trap.
+Emotional Progression: Discovery → Collapse → Erasure
+
+CORE THEME
+Thesis: The truth isn’t redemptive. It’s designed to break them.
+Framing: Each truth is psychologically engineered — self-destruct mechanism.
+Tone: Grim, unraveling, irreversible
+
+SCRIPT & VOICEOVER
+(Already given in doc)
+
+CLIP MAP & VISUAL STRUCTURE
+4:00–4:40 — Oldboy
+- Gift box → photo album (1:35:30), realization montage, scream, tongue
+- Ends on: hypnotist walking away (1:47:05)
+
+4:40–5:25 — Shutter Island
+- Lighthouse reveal (1:47:10), Dolores flashback, breakdown
+- Ends with: Teddy waiting in garden (1:48:55)
+
+5:25–6:10 — TDKR
+- Bane reveal montage (1:26:00), Harvey Dent cover-up, pit scenes
+- Ends on: Bruce’s grave, Alfred weeping
+
+6:10–7:00 — Crosscut Collapse
+- Dae-su in snow (1:47:20), Teddy’s strapped chair (1:48:10), Bruce walks away from cave (1:58:10)
+- All three dissolve, sound drops to near silence
+
+AUDIO DESIGN
+- Uneasy drones and abrupt tonal shifts during reveal moments
+- Reverb and distortion to echo psychological rupture
+- Final fade to near silence

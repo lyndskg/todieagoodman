@@ -1,0 +1,14 @@
+# Media files
+*.mp4
+*.mov
+*.wav
+*.aiff
+*.drp
+
+# System/IDE junk
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Resolve export folders
+resolve_project/exports/
