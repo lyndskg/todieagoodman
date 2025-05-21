@@ -1,5 +1,5 @@
 # === MEDIA FILES ===
-*.mp4
+assets/*.mp4
 *.mov
 *.avi
 *.mkv
