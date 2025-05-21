@@ -10,7 +10,6 @@ todieagoodman/
 │   ├── VI_outro.md
 │   ├── MASTER_STORYBOARD.md     # Full compiled script (reference-only)
 │   └── archive/                 # Earlier drafts or alternate takes
-│   └── compiled_storyboard.md
 │
 ├── project/                     # Planning + execution metadata
 │   ├── scenes.json              # Timestamps for ffmpeg clip splitting
