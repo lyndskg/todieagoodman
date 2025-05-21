@@ -33,6 +33,6 @@ todieagoodman/
 │   ├── I_identity.wav
 │   └── ...                      # Recorded voiceovers (WAV or MP3)
 │  
-└── resolve_project/              # DaVinci Resolve files + media bin
+└── resolve_project/             # DaVinci Resolve files + media bin
     ├── todieagoodman.drp
     └── exports/
