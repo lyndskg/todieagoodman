@@ -1,1 +1,17 @@
+# === MEDIA FILES ===
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flac
+*.wav
+*.aiff
+*.mp3
+
+# === VIDEO EDITING PROJECT FILES ===
+*.drp         # DaVinci Resolve Project
+*.drt
+*.rpp         # Reaper Project
+*.prproj      # Adobe Premiere Project
+*.aep         # After Effects Project
 
