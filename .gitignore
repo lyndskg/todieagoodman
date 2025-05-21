@@ -1,1 +1,54 @@
-aaaa
+# === MEDIA FILES ===
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flac
+*.wav
+*.aiff
+*.mp3
+
+# === VIDEO EDITING PROJECT FILES ===
+*.drp         # DaVinci Resolve Project
+*.drt
+*.rpp         # Reaper Project
+*.prproj      # Adobe Premiere Project
+*.aep         # After Effects Project
+
+# === OS-SPECIFIC ===
+.DS_Store
+Thumbs.db
+Icon?
+ehthumbs.db
+desktop.ini
+
+# === TEMP / EXPORT / RENDER FOLDERS ===
+resolve_project/exports/
+resolve_project/cache/
+resolve_project/Render Cache/
+resolve_project/.gallery/
+
+# === EDITING METADATA ===
+*.srt
+*.ass
+*.vtt
+*.xmp
+
+# === BACKUPS & SWAPS ===
+*~
+*.bak
+*.swp
+*.tmp
+*.old
+*.orig
+
+# === NODE / PYTHON / BUILD SYSTEMS (if used) ===
+node_modules/
+.env
+__pycache__/
+*.py[cod]
+
+# === GITHUB PAGES or DOC OUTPUT (optional) ===
+/_site/
+/dist/
+build/
