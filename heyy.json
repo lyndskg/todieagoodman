@@ -1,0 +1,295 @@
+{
+  "0": {
+    "section": "Intro / Hook",
+    "clips": [
+      {
+        "title": "following_mido",
+        "file": "oldboy.mp4",
+        "start": "00:00:28", 
+        "duration": "00:00:02",
+        "description": "Opening flash-forward where Oh Dae-Su silently follows Mi-do, foreshadowing distrust and mystery."
+      },
+      {
+        "title": "tv_attempted_suicide",
+        "file": "oldboy.mp4",
+        "start": "00:50:22",
+        "duration": "00:01:30",
+        "description": "A montage of television clips reveals Dae-Su's descent into desperation — climaxing in a failed suicide attempt."
+      },
+      {
+        "title": "police_station_arrest",
+        "file": "oldboy.mp4",
+        "start": "00:01:10",
+        "duration": "00:00:30",
+        "description": "Drunken Oh Dae-Su is arrested at a police station — disoriented and chaotic introduction to his character."
+      },
+      {
+        "title": "mysterious_gift_box",
+        "file": "oldboy.mp4",
+        "start": "00:41:20",
+        "duration": "00:00:35"
+      },
+      {
+        "title": "final_walk_through_snow",
+        "file": "oldboy.mp4",
+        "start": "01:47:20",
+        "duration": "00:00:35"
+      }
+    ]
+  },
+
+  "1": {
+    "section": "Identity as Loss",
+    "clips" : [
+      {
+        "title": "tally_marks_on_wall",
+        "file": "oldboy.mp4",
+        "start": "00:05:50",
+        "duration": "00:00:20"
+    },
+    {
+        "title": "tally_marks_alt",
+        "file": "oldboy.mp4",
+        "start": "00:06:35",
+        "duration": "00:00:15"
+    },
+    {
+        "title": "tv_montage",
+        "file": "oldboy.mp4",
+        "start": "00:06:20",
+        "duration": "00:00:30"
+    },
+    {
+        "title": "tv_montage_alt",
+        "file": "oldboy.mp4",
+        "start": "00:08:30", 
+        "duration": "00:00:50"
+    },
+    {
+        "title": "shadowboxing_in_cell",
+        "file": "oldboy.mp4",
+        "start": "00:07:25",
+        "duration": "00:00:20"
+    },
+    {
+        "title": "door_slot",
+        "file": "oldboy.mp4",
+        "start": "00:08:45",
+        "duration": "00:00:12"
+    },
+    {
+        "title": "door_slot_peek",
+        "file": "oldboy.mp4",
+        "start": "00:10:55", 
+        "duration": "00:00:20"
+    },
+    {
+        "title": "release_on_rooftop",
+        "file": "oldboy.mp4",
+        "start": "00:20:15",
+        "duration": "00:00:30"
+    },
+    {
+        "title": "learning_about_schoolgirl",
+        "file": "oldboy.mp4",
+        "start": "0:30:00",
+        "duration": "00:00:30"
+      }
+    ]
+  },
+
+  "2": {
+    "section": "Weaponization of Truth",
+    "clips" : [
+      {
+        "title": "tooth_pull_vengeance",
+        "file": "oldboy.mp4",
+        "start": "00:18:00",
+        "duration": "00:00:30",
+        "description": "Dae-su enacts revenge by pulling out a man's teeth without anesthesia — brutality executed with unnerving calm. The scene echoes his transformation into an agent of vengeance."
+      },
+      {
+        "title": "photo_wall_discovery",
+        "file": "oldboy.mp4",
+        "start": "01:25:45", 
+        "duration": "00:01:25"
+      },
+      {
+        "title": "eating_octopus_flashback",
+        "file": "oldboy.mp4",
+        "start": "01:36:00", 
+        "duration": "00:01:30"
+      },
+      {
+        "title": "scenic_taxi_drive",
+        "file": "oldboy.mp4",
+        "start": "01:45:40",
+        "duration": "00:01:50",
+        "description": "On the way to his final confrontation, the drive plays like a requiem - purpose swells, but at what cost?"
+      },
+      {
+        "title": "penthouse_entry_sequence",
+        "file": "oldboy.mp4",
+        "start": "01:45:20",
+        "duration": "00:00:40",
+        "description": "Dae-su enters the penthouse for the final reveal - every step heavy with dread and inevitability."
+      }
+    ]
+  },
+
+  "3": {
+    "section": "Illusion of Trust",
+    "clips" : [
+      {
+        "title": "phonebooth_confrontation",
+        "file": "oldboy.mp4",
+        "start": "00:20:00",
+        "duration": "00:00:30",
+        "description": "A tense exchange in a phone booth where Dae-Su realizes his predator may always be one step ahead."
+      },
+      {
+        "title": "cutting_out_tongue",
+        "file": "oldboy.mp4",
+        "start": "0:34:00",
+        "duration": "00:00:30",
+        "description": "Oh Dae-Su offers his own tongue in penance, a symbolic gesture begging for mercy — justice reimagined as self-mutilation."
+      },
+      {
+        "title": "tooth_extraction_torture",
+        "file": "oldboy.mp4",
+        "start": "00:34:20",
+        "duration": "00:00:55",
+        "description": "A chilling torture scene where Dae-Su forcefully pulls out a man’s teeth — punishment without courtroom, revenge masquerading as righteousness."
+      },
+      {
+        "title": "cryptic_call",
+        "file": "oldboy.mp4",
+        "start": "01:36:00",
+        "duration": "00:00:40",
+        "description": "Dae-su receives a cryptic call that reawakens the psychological torment he's been enduring - truth dangled as control."
+      }
+    ]
+  },
+
+  "4": {
+    "section": "Their Final Choice",
+    "clips" : [
+      {
+        "title": "meeting_wu_jin",
+        "file": "oldboy.mp4",
+        "start": "00:22:00",
+        "duration": "00:00:30",
+        "description": "Oh Dae-Su meets his captor face to face for the first time, a moment of poised power imbalance and unspoken understanding."
+      },
+      {
+        "title": "post_hypnosis_confusion",
+        "file": "oldboy.mp4",
+        "start": "00:36:00",
+        "duration": "00:00:30",
+        "description": "Dae-Su wakes up after a hypnosis session, dazed and altered — a blurred boundary between free will and manipulation."
+      },
+      {
+        "title": "dae_su_briefcase",
+        "file": "oldboy.mp4",
+        "start": "01:30:15",
+        "duration": "00:00:35",
+        "description": "A moment of pause that raises questions about power, payoff, and what justice truly costs."
+      }
+    ]
+  },
+
+  "5": {
+    "section": "Final Reflection",
+    "clips" : [
+      {
+        "title": "mido_music_bonding",
+        "file": "oldboy.mp4",
+        "start": "00:24:00",
+        "duration": "00:00:30",
+        "description": "In a rare quiet moment, Dae-Su and Mi-do bond over music — an oasis of normalcy that feels borrowed from another life."
+      },
+      {
+        "title": "drunken_flashback",
+        "file": "oldboy.mp4",
+        "start": "00:38:00",
+        "duration": "00:00:30"
+      }
+    ]
+  },
+
+  "6": {
+    "section": "Outro",
+    "clips" : [
+      {
+        "title": "suitcase_release",
+        "file": "oldboy.mp4",
+        "start": "00:21:00",
+        "duration": "00:00:25",
+        "description": "Dae-Su’s sudden release in a suitcase — a symbolic rebirth into a world that feels just as claustrophobic as the cell."
+      },
+      {
+        "title": "dream_with_mido",
+        "file": "oldboy.mp4",
+        "start": "00:26:00",
+        "duration": "00:00:30",
+        "description": "A surreal sequence in which Dae-Su dreams of Mi-do — tender, strange, and charged with the ambiguity of truth.",
+        "tags": ["dream", "ambiguity", "surreal", "emotion"]
+      }
+    ]
+  },
+
+  "unsorted": {
+    "section": "Unsorted",
+    "clips" : [
+      {
+        "title": "police_station_comedy",
+        "file": "oldboy.mp4",
+        "start": "0:06:00",
+        "duration": "00:00:30",
+        "description": "Early sequence showcasing Dae-Su’s drunken antics at the police station."
+      },
+      {
+        "title": "captive_fight_dream",
+        "file": "oldboy.mp4",
+        "start": "00:11:10",
+        "duration": "00:00:30",
+        "description": "A stylized hallucination in which Dae-su imagines fighting off captors while in solitary confinement. Reflects his growing mental instability."
+      },
+      {
+        "title": "police_station_alt",
+        "file": "oldboy.mp4",
+        "start": "0:12:00",
+        "duration": "00:00:30",
+        "description": "An alternate segment in the police station, continuing Dae-su’s chaotic, drunken behavior."
+      },
+      {
+        "title": "first_meeting_mido",
+        "file": "oldboy.mp4",
+        "start": "01:25:15",
+        "duration": "00:01:15"
+      },
+      {
+        "title": "mido_caretaking_dae_su",
+        "file": "oldboy.mp4",
+        "start": "01:27:00",
+        "duration": "00:01:35",
+        "description": "A quiet, tender sequence that deepens the ambiguity between maternal instinct, romantic intimacy, and narrative manipulation."      },
+      {
+        "title": "maniac_elevator_laughing",
+        "file": "oldboy.mp4",
+        "start": "01:28:00",
+        "duration": "00:00:40",
+        "description": "Dae-su laughs manically in the elevator after a brutal fight — an unsettling expression of catharsis, madness, and bitter triumph.",
+        "tags": ["madness", "catharsis", "violence", "dark_humor", "elevator"]
+      },
+      {
+        "title": "classroom_hallway_walk",
+        "file": "oldboy.mp4",
+        "start": "01:33:10",
+        "duration": "00:00:35",
+        "description": "Dae-su walks the hauntingly empty hallway of a school — a spatial and psychological return to the origin of his trauma. Memory and architecture collapse into each other.",
+        "tags": ["hallway", "school", "trauma", "memory", "origin"]
+      }
+    ]
+  }
+}
